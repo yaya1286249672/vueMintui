@@ -26,19 +26,19 @@
       <mt-tabbar v-model="selected">
         <mt-tab-item id="outsale">
           <img slot="icon" src="./assets/logo.png">
-          外卖
+          外卖1
         </mt-tab-item>
         <mt-tab-item id="order">
           <img slot="icon" src="./assets/logo.png">
-          订单
+          订单2
         </mt-tab-item>
         <mt-tab-item id="find">
           <img slot="icon" src="./assets/logo.png">
-          发现
+          发现3
         </mt-tab-item>
         <mt-tab-item id="mine">
           <img slot="icon" src="./assets/logo.png">
-          我的
+          我的4
         </mt-tab-item>
       </mt-tabbar>
     </div>
